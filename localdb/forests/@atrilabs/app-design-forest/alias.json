@@ -1,1 +1,8 @@
-{}
+{
+  "Flex": 12,
+  "Div": 8,
+  "TextBox": 18,
+  "Link": 2,
+  "Image": 17,
+  "Button": 4
+}
