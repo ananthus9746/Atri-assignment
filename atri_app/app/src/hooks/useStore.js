@@ -112,6 +112,15 @@ const desktopModeProps = {
     "Flex16": {
       "callbacks": {}
     },
+    "Flex34": {
+      "callbacks": {}
+    },
+    "Div34": {
+      "callbacks": {}
+    },
+    "Flex35": {
+      "callbacks": {}
+    },
     "Flex24": {
       "callbacks": {}
     },
@@ -172,7 +181,76 @@ const desktopModeProps = {
     "Div21": {
       "callbacks": {}
     },
-    "Div34": {
+    "Flex36": {
+      "callbacks": {}
+    },
+    "Flex37": {
+      "callbacks": {}
+    },
+    "Flex43": {
+      "callbacks": {}
+    },
+    "Flex45": {
+      "callbacks": {}
+    },
+    "Flex46": {
+      "callbacks": {}
+    },
+    "Div38": {
+      "callbacks": {}
+    },
+    "Flex38": {
+      "callbacks": {}
+    },
+    "Flex47": {
+      "callbacks": {}
+    },
+    "Flex48": {
+      "callbacks": {}
+    },
+    "Flex50": {
+      "callbacks": {}
+    },
+    "Flex54": {
+      "callbacks": {}
+    },
+    "Flex55": {
+      "callbacks": {}
+    },
+    "Flex56": {
+      "callbacks": {}
+    },
+    "Flex57": {
+      "callbacks": {}
+    },
+    "Flex58": {
+      "callbacks": {}
+    },
+    "Flex59": {
+      "callbacks": {}
+    },
+    "Flex60": {
+      "callbacks": {}
+    },
+    "Div42": {
+      "callbacks": {}
+    },
+    "Div44": {
+      "callbacks": {}
+    },
+    "Div43": {
+      "callbacks": {}
+    },
+    "Div45": {
+      "callbacks": {}
+    },
+    "Flex40": {
+      "callbacks": {}
+    },
+    "Flex41": {
+      "callbacks": {}
+    },
+    "Flex42": {
       "callbacks": {}
     },
     "Link1": {
@@ -814,6 +892,30 @@ const desktopModeProps = {
         ]
       }
     },
+    "TextBox77": {
+      "custom": {
+        "text": "Browse our menu"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox80": {
+      "custom": {
+        "text": "Lorem ipsum nsectetur adipiscing elit ugue quam diam vitae velit bibendum elementumm ipsum dolor sit amet consectetur adipisci"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
     "TextBox47": {
       "custom": {
         "text": "Classic Burger"
@@ -1206,9 +1308,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox77": {
+    "Button12": {
       "custom": {
-        "text": "Browse our menu"
+        "text": "Submit"
       },
       "callbacks": {
         "onClick": [
@@ -1218,9 +1320,282 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox80": {
+    "Button13": {
       "custom": {
-        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam vitae velit bibendum elementumm ipsum dolor sit amet consectetur adipiscing elit ugue"
+        "text": "Submit"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox82": {
+      "custom": {
+        "text": "Taste the most delicious burger in Los Angeles, CA"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox83": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam vitae velit bibendum elementum. Order online"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button15": {
+      "custom": {
+        "text": "Order online"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button16": {
+      "custom": {
+        "text": "Reservate"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image44": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616da2c364b456b93fb50d6d_cta-restaurante-x-template.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox84": {
+      "custom": {
+        "text": "1"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox85": {
+      "custom": {
+        "text": "What our clients say"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox86": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam vitae velit bibendum elementum."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image50": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/star-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image51": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/star-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image53": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/star-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image55": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/star-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image56": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/star-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox89": {
+      "custom": {
+        "text": "“You must try these burgers”"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox90": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elitilmim semper adipiscing massa gravida nisi cras enim quis nibholm varius amet gravida ut facilisis neque egestas."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image58": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/face1.jpg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox91": {
+      "custom": {
+        "text": "Matt Cannon"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox92": {
+      "custom": {
+        "text": "San Diego, CA"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image47": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/left-arrow-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image48": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/right-arrow-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button17": {
+      "custom": {
+        "text": "Submit"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button18": {
+      "custom": {
+        "text": "Submit"
       },
       "callbacks": {
         "onClick": [
