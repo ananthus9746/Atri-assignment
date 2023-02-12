@@ -148,12 +148,6 @@ const desktopModeProps = {
     "Div29": {
       "callbacks": {}
     },
-    "Flex30": {
-      "callbacks": {}
-    },
-    "Div22": {
-      "callbacks": {}
-    },
     "Flex31": {
       "callbacks": {}
     },
@@ -181,6 +175,12 @@ const desktopModeProps = {
     "Div21": {
       "callbacks": {}
     },
+    "Flex30": {
+      "callbacks": {}
+    },
+    "Div64": {
+      "callbacks": {}
+    },
     "Flex36": {
       "callbacks": {}
     },
@@ -191,6 +191,9 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Flex45": {
+      "callbacks": {}
+    },
+    "Div66": {
       "callbacks": {}
     },
     "Flex46": {
@@ -433,6 +436,18 @@ const desktopModeProps = {
     "Div53": {
       "callbacks": {}
     },
+    "TextBox142": {
+      "custom": {
+        "text": "created by:ananthu.ann@gmail.com"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
     "Link1": {
       "custom": {
         "text": "",
@@ -533,7 +548,7 @@ const desktopModeProps = {
     },
     "Button2": {
       "custom": {
-        "text": "Reserved"
+        "text": "Reservate"
       },
       "callbacks": {
         "onClick": [
@@ -1050,7 +1065,7 @@ const desktopModeProps = {
     },
     "Button10": {
       "custom": {
-        "text": "Submit"
+        "text": "About us"
       },
       "callbacks": {
         "onClick": [
@@ -1062,7 +1077,7 @@ const desktopModeProps = {
     },
     "Button11": {
       "custom": {
-        "text": "Submit"
+        "text": "Join our team"
       },
       "callbacks": {
         "onClick": [
@@ -1086,7 +1101,7 @@ const desktopModeProps = {
     },
     "TextBox80": {
       "custom": {
-        "text": "Lorem ipsum nsectetur adipiscing elit ugue quam diam vitae velit bibendum elementumm ipsum dolor sit amet consectetur adipisci"
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam vitae velit bibendum elementum."
       },
       "callbacks": {
         "onClick": [
@@ -1234,55 +1249,6 @@ const desktopModeProps = {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/616dc414d54d4e45ccac841f_regular-soda-restaurante-x-template-p-500.jpeg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image35": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/616dc9aac480169bcc819e69_classic-fries-restaurante-x-template-p-500.jpeg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox63": {
-      "custom": {
-        "text": "Classic Fries"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox64": {
-      "custom": {
-        "text": "Lorem ipsum dolor sit amet dolor consectetur adipiscing elit"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox75": {
-      "custom": {
-        "text": "$ 10.99 USD"
       },
       "callbacks": {
         "onClick": [
@@ -1488,9 +1454,58 @@ const desktopModeProps = {
         ]
       }
     },
+    "TextBox63": {
+      "custom": {
+        "text": "Classic Fries"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox64": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet dolor consectetur adipiscing elit"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image35": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/616dc9aac480169bcc819e69_classic-fries-restaurante-x-template-p-500.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox75": {
+      "custom": {
+        "text": "$ 10.99 USD"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
     "Button12": {
       "custom": {
-        "text": "Submit"
+        "text": "Order online"
       },
       "callbacks": {
         "onClick": [
@@ -1502,7 +1517,7 @@ const desktopModeProps = {
     },
     "Button13": {
       "custom": {
-        "text": "Submit"
+        "text": "Book a table"
       },
       "callbacks": {
         "onClick": [
@@ -1763,7 +1778,7 @@ const desktopModeProps = {
     },
     "Button17": {
       "custom": {
-        "text": "Submit"
+        "text": "Order online"
       },
       "callbacks": {
         "onClick": [
@@ -1775,7 +1790,7 @@ const desktopModeProps = {
     },
     "Button18": {
       "custom": {
-        "text": "Submit"
+        "text": "Book table"
       },
       "callbacks": {
         "onClick": [
@@ -2020,7 +2035,7 @@ const desktopModeProps = {
     },
     "TextBox125": {
       "custom": {
-        "text": "Your Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam vitae velit bibendum elementum.text Here!"
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam vitae velit bibendum elementum."
       },
       "callbacks": {
         "onClick": [
@@ -2528,7 +2543,7 @@ const desktopModeProps = {
     },
     "TextBox114": {
       "custom": {
-        "text": "pages"
+        "text": "Pages"
       },
       "callbacks": {
         "onClick": [
