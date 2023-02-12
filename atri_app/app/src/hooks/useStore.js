@@ -334,6 +334,24 @@ const desktopModeProps = {
     "Flex85": {
       "callbacks": {}
     },
+    "Flex86": {
+      "callbacks": {}
+    },
+    "Flex111": {
+      "callbacks": {}
+    },
+    "Flex112": {
+      "callbacks": {}
+    },
+    "Flex121": {
+      "callbacks": {}
+    },
+    "Flex114": {
+      "callbacks": {}
+    },
+    "Flex115": {
+      "callbacks": {}
+    },
     "Flex88": {
       "callbacks": {}
     },
@@ -1990,7 +2008,7 @@ const desktopModeProps = {
     },
     "TextBox124": {
       "custom": {
-        "text": "Your text Here!"
+        "text": "Book your table now"
       },
       "callbacks": {
         "onClick": [
@@ -2002,7 +2020,7 @@ const desktopModeProps = {
     },
     "TextBox125": {
       "custom": {
-        "text": "Your text Here!"
+        "text": "Your Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam vitae velit bibendum elementum.text Here!"
       },
       "callbacks": {
         "onClick": [
@@ -2027,7 +2045,7 @@ const desktopModeProps = {
     },
     "TextBox126": {
       "custom": {
-        "text": "Your text Here!"
+        "text": "837 W. Marshall Lane Marshalltown, IA 50158, Los Angeles"
       },
       "callbacks": {
         "onClick": [
@@ -2052,7 +2070,7 @@ const desktopModeProps = {
     },
     "TextBox127": {
       "custom": {
-        "text": "Your text Here!"
+        "text": "(414) 857 - 0107"
       },
       "callbacks": {
         "onClick": [
@@ -2077,7 +2095,7 @@ const desktopModeProps = {
     },
     "TextBox128": {
       "custom": {
-        "text": "Your text Here!"
+        "text": "losangeles@restaurentex.com"
       },
       "callbacks": {
         "onClick": [
@@ -2087,8 +2105,150 @@ const desktopModeProps = {
         ]
       }
     },
-    "Flex86": {
+    "TextBox141": {
+      "custom": {
+        "text": "Add  a note"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox134": {
+      "custom": {
+        "text": "Name"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Input3": {
+      "custom": {
+        "value": "",
+        "placeholder": "Jhon carted"
+      },
       "callbacks": {}
+    },
+    "TextBox135": {
+      "custom": {
+        "text": "Phone"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Input4": {
+      "custom": {
+        "value": "",
+        "placeholder": "(123)-456-789"
+      },
+      "callbacks": {}
+    },
+    "TextBox136": {
+      "custom": {
+        "text": "Date"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Input5": {
+      "custom": {
+        "value": "",
+        "placeholder": "Day and month"
+      },
+      "callbacks": {}
+    },
+    "TextBox138": {
+      "custom": {
+        "text": "Email Address"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Input9": {
+      "custom": {
+        "value": "",
+        "placeholder": "example@gmail.come"
+      },
+      "callbacks": {}
+    },
+    "TextBox139": {
+      "custom": {
+        "text": "Location"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Input10": {
+      "custom": {
+        "value": "",
+        "placeholder": "Ex.los Angeles"
+      },
+      "callbacks": {}
+    },
+    "TextBox140": {
+      "custom": {
+        "text": "Shedule"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Input11": {
+      "custom": {
+        "value": "",
+        "placeholder": "Ex.2:00PM"
+      },
+      "callbacks": {}
+    },
+    "Input13": {
+      "custom": {
+        "value": "",
+        "placeholder": "Do you have any note for us ?"
+      },
+      "callbacks": {}
+    },
+    "Button21": {
+      "custom": {
+        "text": "Book a table"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
     },
     "TextBox105": {
       "custom": {
